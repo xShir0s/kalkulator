@@ -30,7 +30,7 @@
     <AppXManifest Include="C:\Users\a4\source\repos\Kalkulator\Kalkulator\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2024-09-19T07:09:40.855</Modified>
+      <Modified>2024-09-19T07:33:13.322</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
@@ -44,11 +44,11 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\a4\source\repos\Kalkulator\Kalkulator\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Kalkulator.dll">
       <PackagePath>Kalkulator.dll</PackagePath>
-      <Modified>2024-09-19T07:09:40.529</Modified>
+      <Modified>2024-09-19T07:33:12.973</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\a4\source\repos\Kalkulator\Kalkulator\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\apphost.exe">
       <PackagePath>Kalkulator.exe</PackagePath>
-      <Modified>2024-09-19T07:09:40.533</Modified>
+      <Modified>2024-09-19T07:33:12.979</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\a4\source\repos\Kalkulator\Kalkulator\Resources\Raw\AboutAssets.txt">
       <PackagePath>AboutAssets.txt</PackagePath>
